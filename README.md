@@ -1,6 +1,8 @@
 # 🧮 Cálculadora Interativa de Derivadas com Streamlit
 
-Esse é um projeto pessoal que desenvolvi para automatizar o cálculo de derivadas usando a biblioteca **SymPy** e **Streamlit** . Esse projeto foi desenvolvido com objetivo de auxiliar meus estudos na **Engenharia Mecanica** 
+* ACESSE O SITE: **https://appderivada-pedroamerico.streamlit.app/**
+
+Esse é um projeto pessoal que desenvolvi para automatizar o cálculo de derivadas usando a biblioteca **SymPy** e **Streamlit** . Esse projeto foi desenvolvido com objetivo de auxiliar estudantes de Engenharia.
 
 ##  🚀 Funcionalidades 
 * Cálculo de Primeira e Segunda Derivada
@@ -20,7 +22,7 @@ Esse é um projeto pessoal que desenvolvi para automatizar o cálculo de derivad
 ```bash
    pip install -r requirements.txt
    ```
-* Depois, execute o aplicativo no terminal: 
+* Depois, execute o aplicativo no terminal, ou acesse o site **https://appderivada-pedroamerico.streamlit.app/**
 ```bash
     streamlit run app.py
 ```
