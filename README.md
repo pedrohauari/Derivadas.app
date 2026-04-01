@@ -1,6 +1,6 @@
 # 🧮 Cálculadora Interativa de Derivadas com Streamlit
-
-* ACESSE O SITE: **https://appderivada-pedroamerico.streamlit.app/**
+* Acesse o site abaixo: 
+* [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appderivada-pedroamerico.streamlit.app/)
 
 Esse é um projeto pessoal que desenvolvi para automatizar o cálculo de derivadas usando a biblioteca **SymPy** e **Streamlit** . Esse projeto foi desenvolvido com objetivo de auxiliar estudantes de Engenharia.
 
