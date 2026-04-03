@@ -2,12 +2,13 @@
 * Acesse o site abaixo: 
 * [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appderivada-pedroamerico.streamlit.app/)
 
-Esse é um projeto pessoal que desenvolvi para automatizar o cálculo de derivadas usando a biblioteca **SymPy** e **Streamlit** . Esse projeto foi desenvolvido com objetivo de auxiliar estudantes de Engenharia.
+Esse é um projeto pessoal que desenvolvi para automatizar o cálculo de derivadas usando a biblioteca **SymPy** com a interface web do **Streamlit** . Esse projeto foi desenvolvido com objetivo de auxiliar estudantes de Engenharia.
 
 ##  🚀 Funcionalidades 
 * Cálculo de Primeira e Segunda Derivada
 * Cálculo da n-ésima derivada
 * Suporte para Derivadas Explícitas e Implícitas
+* Suporte para **Taxas Relacionadas** 
 * Suporte para todas as letras do alfabeto latino e grego
 * Simplificação de Derivadas
 
